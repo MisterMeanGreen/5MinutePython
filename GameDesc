@@ -1,4 +1,9 @@
 This will be a list of the title of each game, simple intructions, and description....
 
+It should be noted that the file includes everything required for it to be used with Visual Studio.
+All games required Python.
 
-1. 
+First Python App
+/Desc : It is a guess the number game. Think of a number from 1-1000 and the computer will have 10 trys at guessing your number.
+/Instructions : When it guesses, type H for too high, L for too Low, and W for win, as in it has guessed correctly.
+
